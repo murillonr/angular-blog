@@ -1,0 +1,9 @@
+.articles {
+    margin-top: 30px;
+    
+    display: flex;
+    flex-direction: row;
+}
+.articles__orthers{
+    margin-left: 15px;
+}

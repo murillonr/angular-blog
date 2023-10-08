@@ -1,0 +1,25 @@
+.small-card__container {
+  border: solid purple 2px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  height: 150px;
+  flex-direction: row;
+}
+.small-card__title {
+  font-size: 8px;
+  font-weight: bolder;
+  margin-left: 20 px;
+  display: flex;
+  justify-content: center;
+}
+
+.small-card__description {
+  font-size: 8px;
+  margin-left: 20 px;
+  display: flex;
+  justify-content: center;
+}
+.small-card__photo {
+  width: 100%;
+}
