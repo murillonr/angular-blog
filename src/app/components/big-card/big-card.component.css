@@ -1,0 +1,23 @@
+.big-card__container {
+  border: solid purple 2px;
+  margin-left: 10px;
+  width: 200px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.big-card__title {
+  font-size: 15px;
+  color: white;
+}
+.big-card__description {
+  font-size: 8px;
+  font-weight: bold;
+  color: blue;
+}
+.big-card__photo {
+  width: 100%;
+  min-width: none;
+}
